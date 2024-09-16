@@ -6,7 +6,7 @@ DeBox 是一款去中心化的 Web3.0 社交平台，，旨在建立一个可信
 
 截至目前，DeBox单日消息分发已超过一亿条，用户量已突破百万，拥有全球最大的DAO社区生态。
 
-[官网](https://debox.pro/) . [X](https://x.com/DeBox_Social) . [新手社区](https://m.debox.pro/group?id=l3izdfzd&code=pPqfwLTG) . [Web App](https://app.debox.pro/) . [iOS](https://apps.apple.com/us/app/debox-global/id6444485220) . [Android](https://play.google.com/store/apps/details?id=com.tm.security.wallet) . [白皮书](https://docs.debox.pro/whitepaper/)
+[官网](https://debox.pro/) . [X](https://x.com/DeBox_Social) . [新手社区](https://m.debox.pro/group?id=l3izdfzd&code=pPqfwLTG) . [白皮书](https://docs.debox.pro/whitepaper/) . [Web App](https://app.debox.pro/) . [iOS](https://apps.apple.com/us/app/debox-global/id6444485220) . [Android](https://play.google.com/store/apps/details?id=com.tm.security.wallet) 
 ## 👩‍👧‍👦有哪些社区类型？
 
 - **群组**
