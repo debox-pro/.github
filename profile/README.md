@@ -60,19 +60,19 @@ DeBox 是一款去中心化的 Web3.0 社交平台，，旨在建立一个可信
 - **DeBox Guardians NFT**
 DeBox Guardians NFT 是 DeBox 社区中的一系列非同质化代币（简称 NFT），由以下五种类型的 NFT 组成：
 
-🐧[DeBox Guardians Penguin\(DGP\)](https://opensea.io/collection/debox-guardians-penguin)
+ 🐧[DeBox Guardians Penguin\(DGP\)](https://opensea.io/collection/debox-guardians-penguin)
   昵称：企鹅  企鹅是 OG ，在社区中具有重要的治理权限和影响力。
   
-🦅[DeBox Guardians Eagle(DGE)](https://opensea.io/collection/debox-guardians-eagle)
+ 🦅[DeBox Guardians Eagle(DGE)](https://opensea.io/collection/debox-guardians-eagle)
   昵称：小鹰  小鹰是执法者 ，进行监督和管理社区，确保社区成员遵守规则和准则。
   
-🐰[DeBox Guardians Rabbit(DGR)](https://opensea.io/collection/debox-guardians-rabbit-official)
+ 🐰[DeBox Guardians Rabbit(DGR)](https://opensea.io/collection/debox-guardians-rabbit-official)
   昵称：小兔  小兔是建设者，推动社区发展，通常是开发人员。
   
-🐍[DeBox Guardians Cobra(DGC)](https://opensea.io/collection/debox-guardians-cobra)
+ 🐍[DeBox Guardians Cobra(DGC)](https://opensea.io/collection/debox-guardians-cobra)
   昵称：小蛇  小蛇是基金会，推动社区的发展和治理，为用户提供更加优质的 Web3 社交体验。
   
-🦈[DeBox Guardians Shark(DGS)](https://opensea.io/collection/debox-guardians-shark-official)
+ 🦈[DeBox Guardians Shark(DGS)](https://opensea.io/collection/debox-guardians-shark-official)
   昵称：鲨鱼  他们现在是神秘的……
 
 ## 🔮旗下产品
