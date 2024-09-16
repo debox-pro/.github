@@ -62,6 +62,7 @@ DeBox Guardians NFT 是 DeBox 社区中的一系列非同质化代币（简称 N
 
 -🐧[DeBox Guardians Penguin\(DGP\)](https://opensea.io/collection/debox-guardians-penguin)
   昵称：企鹅  企鹅是 OG ，在社区中具有重要的治理权限和影响力。
+  
 -🦅[DeBox Guardians Eagle(DGE)](https://opensea.io/collection/debox-guardians-eagle)
   昵称：小鹰  小鹰是执法者 ，进行监督和管理社区，确保社区成员遵守规则和准则。
 -🐰[DeBox Guardians Rabbit(DGR)](https://opensea.io/collection/debox-guardians-rabbit-official)
