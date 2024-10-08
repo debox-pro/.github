@@ -5,8 +5,6 @@ DeBox是新一代web3身份社交平台。持有ERC20代币用户及NFT用户可
 ### 官网
 https://debox.pro
 
-### 使用手册
-https://debox.gitbook.io/debox-cn/
 
 ### DeBox有以下几个核心功能：
 
