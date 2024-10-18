@@ -3,16 +3,18 @@
 
 DeBox is an all-in-one social platform focused on providing the permissionless connection between communities, decentralized organizations and users.
 
-[Web App](https://app.debox.pro/) . [iOS](https://apps.apple.com/us/app/debox-global/id6444485220) . [Android](https://play.google.com/store/apps/details?id=com.tm.security.wallet) . [Twitter]([https://docs.debox.pro/whitepaper/]
+[Web App](https://app.debox.pro/) . [iOS](https://apps.apple.com/us/app/debox-global/id6444485220) . [Android](https://play.google.com/store/apps/details?id=com.tm.security.wallet) . [Twitter]([https://play.google.com/store/apps/details?id=com.tm.security.wallet](https://x.com/DeBox_Social)]
 ## 🛠️Developer
 DeBox is dedicated to providing an open and fair ecosystem for all users and external developers. We are excited to launch our Open Platform Tools page, featuring a variety of commonly used Web3 toolkits.
-[Open Platform](https://docs.debox.pro/OpenPlatform))
+
+[Open Platform](https://docs.debox.pro/OpenPlatform)
 
 ## 🤝Community Governance Guidelines
 
 DeBox aims to provide a convenient social platform for the Web3 community, bringing users together through shared interests and fostering a sense of inclusivity.
 DeBox adopts the DeBox Guardians Eagle community for global governance. In addition, each community on DeBox can establish its own rules, defined and enforced by respective Buidlers and MODs.
-[Governance](https://m.debox.pro/communityGuides)))
+
+[Governance](https://m.debox.pro/communityGuides)
 
 
 ## 💡LEGAL DISCLAIMER
