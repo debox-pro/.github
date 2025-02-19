@@ -1,33 +1,26 @@
-# DeBox
+![](https://pbs.twimg.com/profile_banners/1512316683674742788/1714896390/1500x500)
 
-DeBox是新一代web3身份社交平台。持有ERC20代币用户及NFT用户可以无需许可方式加入对应的群组，天然形成DAO社区及NFT社区。社区用户可以调用产品提供的抽奖、红包、提案、投票等各项功能参与社区深度治理。
- 
-### 官网
-https://debox.pro
+## 🟩What is DeBox
+
+![](./DeBoxToken.svg "DeBox Token Logo")
+
+DeBox is an all-in-one social platform focused on providing the permissionless connection between communities, decentralized organizations and users.
+
+[Web App](https://app.debox.pro/) . [iOS](https://apps.apple.com/us/app/debox-global/id6444485220) . [Android](https://play.google.com/store/apps/details?id=com.tm.security.wallet) . [Twitter](https://x.com/DeBox_Social)
+## 🛠️Developer
+DeBox is dedicated to providing an open and fair ecosystem for all users and external developers. We are excited to launch our Open Platform Tools page, featuring a variety of commonly used Web3 toolkits.
+
+[Open Platform](https://docs.debox.pro/OpenPlatform)
+
+## 🤝Community Governance Guidelines
+
+DeBox aims to provide a convenient social platform for the Web3 community, bringing users together through shared interests and fostering a sense of inclusivity.
+DeBox adopts the DeBox Guardians Eagle community for global governance. In addition, each community on DeBox can establish its own rules, defined and enforced by respective Buidlers and MODs.
+
+[Governance](https://m.debox.pro/communityGuides)
 
 
-### DeBox有以下几个核心功能：
+## 💡LEGAL DISCLAIMER
 
-针对项目方：
-1、完全去中心化的社群管理机制。
-2、提供了完备的看板及强大DAO管理工具。
-3、为项目方提供从未发币到已发币的全生命周期管理工具。
+PLEASE READ THE ENTIRETY OF THIS "LEGAL DISCLAIMER" SECTION CAREFULLY. NOTHING HEREIN CONSTITUTES LEGAL, TECHNOLOGY, FINANCIAL, BUSINESS OR TAX ADVICE AND YOU ARE STRONGLY ADVISED TO CONSULT YOUR OWN PROFESSIONAL ADVISOR(S) BEFORE ENGAGING IN ANY ACTIVITY IN CONNECTION HEREWITH. NEITHER FOREST GLOBAL DEVELOPMENT LTD (THE COMPANY), ANY OF THE PROJECT CONTRIBUTORS (THE DEBOX TEAM) WHO HAVE WORKED ON DEBOX (AS DEFINED HEREIN) OR PROJECT TO DEVELOP DEBOX IN ANY WAY WHATSOEVER, NOR ANY SERVICE PROVIDER SHALL BE LIABLE FOR ANY KIND OF DIRECT OR INDIRECT DAMAGE OR LOSS WHATSOEVER WHICH YOU MAY SUFFER IN CONNECTION WITH ACCESSING THE PAPER, DECK OR MATERIAL RELATING TO DEBOX AVAILABLE ON THE WEBSITE AT https://debox.pro/ or https://github.com/debox-pro (THE WEBSITE, INCLUDING ANY SUB-DOMAINS THEREON) OR ANY OTHER WEBSITES OR MATERIALS PUBLISHED OR COMMUNICATED BY THE COMPANY OR ITS REPRESENTATIVES FROM TIME TO TIME.
 
-针对KOL：
-1、通过NFT为KOL提供了一站式知识付费解决方案。
-2、为KOL提供了公域到私域流量完整解决方案。
-
-针对用户：
-1、持仓聊天功能，杜绝垃圾信息及欺诈信息泛滥。
-2、类SPACE的功能，寻找财富密码的集散地。
- 
-### 其他介绍链接：
-
-Linkedin主页
-https://www.linkedin.com/company/debox-social/
-
-链茶馆
-https://mp.weixin.qq.com/s/_c0VWU-InO4-L22uU4myaw
-
-研究报告
-https://mirror.xyz/0xdebox.eth/J0Sp_UcWyqEjhqAfneE0O1nINR56DurYd1k9_ohP_ig
